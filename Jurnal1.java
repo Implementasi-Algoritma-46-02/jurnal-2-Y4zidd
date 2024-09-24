@@ -8,6 +8,8 @@ public class Jurnal1 {
 
         System.out.println("Masukan data mahasiswa anda");
 
+        System.out.println();
+
         //berimasukan nama
         Scanner MyName = new Scanner(System.in);
         System.out.print("Masukan Nama Anda : ");
