@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Yazid Istiqlal Adhy Fadhillah
 
-NIM : 
+NIM : 607062430005
 
 ## Instruksi
 
