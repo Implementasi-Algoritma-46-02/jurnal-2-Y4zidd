@@ -6,7 +6,7 @@ public class Jurnal1 {
     public static void main(String[] args) {
         Object nama, nim, kelas;
 
-        System.out.println("Masukan data mahasiswa : ");
+        System.out.println("Masukan data mahasiswa anda");
 
         //berimasukan nama
         Scanner MyName = new Scanner(System.in);
