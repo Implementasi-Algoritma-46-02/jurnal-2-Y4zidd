@@ -11,14 +11,12 @@ public class Jurnal1 {
         System.out.print("Masukan Nama Anda : ");
 
         nama = MyName.next();
-        System.out.println();
 
         //berimasukan nim
         Scanner MyNim = new Scanner(System.in);
         System.out.print("Masukan NIM Anda : ");
 
         nim = MyNim.next();
-        System.out.println();
 
         //berimasukan kelas
         Scanner MyClass = new Scanner(System.in);
@@ -26,6 +24,7 @@ public class Jurnal1 {
 
         kelas = MyClass.next();
         System.out.println();
+        System.out.println("Data diri mahasiswa : " + "\n");
 
         // cetak hasilnya
         System.out.print("Nama : " + nama + "\n");
