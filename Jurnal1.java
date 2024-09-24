@@ -5,14 +5,12 @@ import java.util.Scanner;
 public class Jurnal1 {
     public static void main(String[] args) {
 
+        //add hello world
         System.out.println("Hello World!!");
 
         Object nama, nim, kelas;
 
         System.out.println("Masukan data mahasiswa anda");
-
-        System.out.println();
-        System.out.println();
 
         //berimasukan nama
         Scanner MyName = new Scanner(System.in);
