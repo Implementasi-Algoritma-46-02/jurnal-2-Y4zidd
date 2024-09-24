@@ -4,10 +4,15 @@ Nama: Yazid Istiqlal Adhy Fadhillah
 
 NIM : 607062430005
 
-## Instruksi
+## Contoh pemograman
+
+![example_of_the_program.png](image%2Fexample_of_the_program.png)
+
+## Cara menjalankan program
 
 - Lakukan `git clone` repository ini ke komputer/laptop masing-masing.
-- Isi nama lengkap sesuai iGracias dan juga NIM di file README.md
-- Kerjakan TP dan jurnal dengan mengedit file yang disediakan. JANGAN membuat file baru!
-- Apabila telah selesai, lakukan `git add`, `git commit` dan `git push`.
-- Hasil autograding bisa dilihat di tab Actions.
+- Buka folder yang sudah di `git clone` di IDE kalian masing masing
+- Jika sudah membuka folder program nya, kalian bisa atur / edit sesuai dengan kebutuhan kalian (jika kurang puas)
+- Jika sudah kalian edit / atur ulang sesuai dengan kebutuhan kalian masing masing kalian bisa coba jalankan program nya
+- Jika sudah menjalankan program nya kalian bisa langsung coba ikuti intruksi sesuai yang keluar di terminal (masukan nama, nim, kelas)
+- Jika sudah maka akan melihat hasil programnya keluar seperti di atas
