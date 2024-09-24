@@ -6,7 +6,7 @@ NIM : 607062430005
 
 ## Contoh pemograman
 
-
+![contoh.png](image%2Fcontoh.png)
 
 ## Cara menjalankan program
 
