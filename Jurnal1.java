@@ -4,6 +4,9 @@ import java.util.Scanner;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Jurnal1 {
     public static void main(String[] args) {
+
+        System.out.println("Hello World!!");
+
         Object nama, nim, kelas;
 
         System.out.println("Masukan data mahasiswa anda");
